@@ -1,4 +1,4 @@
-from models import Student, Course
+from classes import Student, Course
 
 
 
